@@ -1,0 +1,172 @@
+# 5 examples of Business Analytics in Action As more and more consumers use online platforms for product research and
+transactions, organizations have access to more real business...
+
+### 5 examples of Business Analytics in Action
+As more and more consumers use online platforms for product research and
+transactions, organizations have access to more real business data than
+ever before.
+
+
+<figcaption>Credit: DALL·E mini by <a href="https://www.craiyon.com/"
+class="markup--anchor markup--figure-anchor"
+data-href="https://www.craiyon.com/" rel="noopener"
+target="_blank">craiyon.com</a></figcaption>
+
+
+Social media feedback, online clicks, and customer surveys and other
+data-driven platforms have provided thousands of businesses with vast
+amounts of data providing insight into customer behavior and purchasing
+patterns.\
+In the enterprise, companies use artificial intelligence software to
+collect and centralize sales and operations data in a single location,
+allowing a business analyst to view employee performance and assess
+inventory management. In short, there's no denying the power of
+leveraging big data to get actionable insights on complex issues.
+
+#### Growth and importance of business analytics
+The industries that consider business analytics most important are
+banking and retail, with 58% saying that it is very important to ensure
+that key objectives are met. Technological advancements, improved
+accessibility, and improved benefits for users are the drivers of growth
+in the BI and BA market. The 48% of all organizations consider BA
+essential to maintain operations. By employing an intelligence system to
+drill down into customer, financial, and sales data, companies can
+better understand their strengths and weaknesses. This allows the
+stakeholders involved to eliminate inefficiencies and make better
+decisions that increase the quality of the results and improve customer
+satisfaction.
+
+As a result of the use of data science and data mining strategies,
+organizations improve their marketing and sales strategies, improve the
+customer experience, find new target customers, optimize the supply
+chain, simplify internal workflows, and standardize best practices.
+
+By employing business analytics as part of a broader business
+intelligence strategy, companies can replace manual processes, gain a
+competitive advantage, increase worker efficiency, and streamline
+business decisions.
+
+Here are some examples of business analytics that have leveraged
+analytics business intelligence tools as part of an overall growth and
+optimization strategy.
+
+#### HelloFresh
+HelloFresh is a meal kit delivery company that uses a business analytics
+software solution to improve digital marketing reporting.\
+Originally, marketing business units were analyzing data sets in Excel
+spreadsheets. This information was collected from a variety of separate
+databases before entering it into Excel.
+
+Because information had to be constantly entered, added, and evaluated
+by workers every day to obtain information, the company was wasting
+valuable time and resources. HelloFresh used a business intelligence and
+big data analytics solution to centralize all reporting information from
+separate locations into a single data warehouse.
+
+Team leaders developed a set of KPIs to show each location's progress
+toward meeting specific goals, with automatic alerts sent to involved
+stakeholders each time it was updated. As a result of being able to view
+and manage information in real time, the company has optimized its sales
+/ marketing strategies and has responded more quickly to changes in
+market trends.
+
+#### REI
+REI is an outdoor cooperative retailer that purchased a business
+analytics intelligence platform to evaluate cooperative member data.
+Because cooperative members contributed the majority of the earnings, it
+was essential to keep track of their retention and activation rates. REI
+originally used Excel to keep track of its members\' data, which
+resulted in less accuracy, wasted time, and wasted resources.
+
+An enterprise analytics solution centralized all data in a single
+warehouse and enabled stakeholders to use a set of KPIs to keep track of
+member data. As a result, REI has developed new membership programs,
+increased retention rates, and acquired new clients.
+
+#### Coca-Cola
+Coca-Cola is a large global bottling partner that uses a BA platform to
+improve reporting processes. Coca-Cola originally collected and manually
+analyzed large amounts of sales and operations data, forcing employees
+to work an additional 260 hours a year. The data was placed in several
+different databases, making it difficult for employees to order and
+perform analyzes.
+
+By implementing a business intelligence system, the organization
+automated manual processes and enabled the sales team to access customer
+relationship management data through dashboards that provided immediate
+alerts when an update occurred. The leadership team was able to use a
+business intelligence system to access real-time numbers every day and
+correct inefficiencies so that employees could focus on more important
+activities.
+
+Decision makers used business intelligence and data visualization
+business intelligence tools to gain more insight into daily operations
+and employee performance. Everyone spent less time generating reports
+and more time devising strategies to increase profits, create marketing
+outreach campaigns, and find new customers.
+
+#### Chipotle
+Chipotle Mexican Grill is a global restaurant business that implemented
+a BI tool to increase visibility of performance metrics in different
+locations. Chipotle was initially using another outdated and inefficient
+analytics business intelligence platform to collect and track its sales
+/ customer data. Because the data sources were not centralized in a
+single warehouse, it made it difficult for team members to analyze the
+information they were collecting.
+
+The company upgraded to a newer self-service business analytics platform
+that centralized all data in one place, creating dashboards for
+management to access across multiple locations. As a result of improved
+access to data, stakeholders were able to quickly generate reports and
+develop insights that contributed to increased profits. It also allowed
+users to drill down into employee performance to see which team members
+and business units needed improvement.
+
+#### Des Moines Public School
+Located in Iowa, Des Moines Public School used business analytics to
+replace tedious manual Excel reporting processes and improve attendance
+monitoring. The school collected large amounts of information from
+various data sources , storing it in separate warehouses. As a result of
+entering data into Excel, there was a decrease in accuracy and
+efficiency throughout the organization. It is more difficult to combat
+dropout rates and attendance problems when the administration cannot get
+a clear view of student data in a centralized location.
+
+A business analysis solution used regression models and predictive
+analysis to predict which students are at risk of dropping out or not
+meeting attendance requirements. Next, the school used preventive
+measures to improve its attendance rates and work with at-risk students
+and their parents. Teachers and other employees had easy access to 5
+years of historical data and analysis of current student data, making it
+easy to intervene before a problem occurred.
+
+By employing an intelligence tool to gain a better understanding of the
+data collected, organizations can optimize workflows, increase
+efficiency, and improve profit margins.
+
+#### Summary
+HelloFresh implemented a business intelligence tool to improve
+reporting, allowing you to create more optimized sales and marketing
+strategies.\
+As a result of business analytics, the REI increased retention rates and
+acquired new members. Coca-Cola used business intelligence software to
+gain more insight into employee performance and operations data.\
+Chipotle implemented a business analysis platform to quickly generate
+new reports, increase profits and improve employee productivity.\
+The Des Moines Public School employed a business analytics system to
+improve dropout rates and improve preventative measures.
+
+### Related Stories
+- [[6 reasons to use business
+  analytics](https://medium.com/@kylejones_47003/6-reasons-to-use-business-analytics-b4b1b1d29a23)]
+- [[How data is changing business,
+  forever](https://medium.com/@kylejones_47003/how-data-is-changing-business-forever-8ef42523de80)]
+- [[Understanding the 3 levels of business
+  analytics](https://medium.com/@kylejones_47003/understanding-the-3-levels-of-business-analytics-baf9040143f7)]
+::::::::By [Kyle Jones](https://medium.com/@kyle-t-jones) on
+[October 1, 2022](https://medium.com/p/ca33017014e9).
+
+[Canonical
+link](https://medium.com/@kyle-t-jones/5-examples-of-business-analytics-in-action-ca33017014e9)
+
+Exported from [Medium](https://medium.com) on November 10, 2025.
